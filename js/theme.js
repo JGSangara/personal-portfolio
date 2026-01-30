@@ -313,7 +313,7 @@ form.on('submit', function (e) {
     e.preventDefault();
 
     $.ajax({
-        url: 'https://formspree.io/f/xdakqoly',
+        url: 'https://formspree.io/f/xdazdpvd',
         type: 'POST',
         dataType: 'json',
         data: form.serialize(),
